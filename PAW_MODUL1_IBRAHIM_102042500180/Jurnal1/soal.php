@@ -5,9 +5,9 @@ session_start();
 //  TUGAS JURNAL PRAKTIKUM - PEMROGRAMAN WEB
 //  Sistem Pendaftaran Calon Asisten Praktikum Laboratorium
 // ============================================================
-//  Nama  : ____________________
-//  NIM   : ____________________
-//  Kelas : ____________________
+//  Nama  : Ibrahim Asy-Syakib    
+//  NIM   : 102042500180
+//  Kelas : 25-03
 // ============================================================
 
 // Daftar mata kuliah praktikum
